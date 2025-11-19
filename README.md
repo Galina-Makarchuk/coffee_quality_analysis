@@ -2,35 +2,29 @@
 
 From beans to scores: features driving coffee ratings.
 ---
-__About the project:__
+__About the project:__ \
 The project investigates how metadata (origin, altitude, processing, etc.) and sensory attributes (aroma, flavor, acidity, balance, etc.) influence the overall coffee quality score (total cup points).
 
-__Analytical methods:__
-* correlation matrix
-* exploratory data analysis (EDA)
-* Time Series analysis
-* Machine learning (ML): Random Forest model
-* Explainable AI: SHAP model interpretation
-
 __Project goal:__ \
-Predict and explain coffee cup score from cupping attributes and metadata.
+Predict and explain the coffee cup score from cupping attributes and metadata.
 
 __Data source:__ \
 Kaggle Coffee Quality Database from CQI: \
 https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi
 
+__Analytical methods:__
+* Correlation matrix
+* Exploratory data analysis (EDA)
+* Time series analysis
+* Machine learning (ML): Random Forest model
+* Explainable AI: SHAP model interpretation
+
 __Project tasks:__
-* Explore ... through ... and Python.
-* Analyze .
-* Visualize .
-* Perform ... analysis.
-* Explore relationship between altitude and cup quality.
-* Built the full altitude-cleaning and analysis pipeline.
-* A predictive model (regression) to estimate score.
-* Use regression or classification to find key predictors (e.g., aroma, acidity, roast type).
-* Build feature importance visualizations.
-* Quantifying and visualizing the influence of coffee characteristics on total cup points.
-* Feature analysis of coffee sensory attributes and their impact on quality scores.
+* Explore relationships between coffee production attributes and coffee quality.
+* Develop an end-to-end pipeline for cleaning and analyzing altitude data.
+* Quantify and visualize the influence of coffee characteristics on total cup points.
+* Build a regression model to predict coffee quality scores.
+* Analyze model outputs to identify the key factors influencing those scores.
 
 __Screenshots:__
 <img width="1710" height="1107" alt="1" src="https://github.com/user-attachments/assets/d2c1a42d-b3c5-4450-a70c-b4498ffdd2f6" />
