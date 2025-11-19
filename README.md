@@ -1,19 +1,17 @@
 # Coffee Quality Analysis
 
-From beans to scores: uncovering features driving coffee quality scores.
+From beans to scores: features driving coffee quality scores.
 ---
 
-__Project goal:__
-Predict and explain what affects coffee quality scores (total cup points) through feature analysis and SHAP values.
+__Project goal:__ \
 
-Predict and explain what affects coffee quality scores (total cup points) through feature analysis of metadata (origin, altitude, specie, processing) and SHAP values of sensory attributes (aroma, acidity, body).
 
-Predict and explain what affects coffee quality scores (total cup points) through feature analysis and SHAP values using sensory attributes  (aroma, acidity, body) and metadata (origin, altitude, specie, processing).
+Predict and explain coffee quality scores (total cup points) from sensory attributes (aroma, acidity, body) and metadata (origin, altitude, specie, processing) using feature analysis and SHAP values. 
 
 Predict and explain coffee cup score from sensory attributes (aroma, acidity, body) and metadata (origin, altitude, specie, processing) using feature analysis and SHAP values. 
 
 __Data source:__ \
-Kaggle Coffee Quality Database from CQI:
+Kaggle Coffee Quality Database from CQI: \
 https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi
 
 __Project tasks:__
