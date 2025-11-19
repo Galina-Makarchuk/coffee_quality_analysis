@@ -1,2 +1,2 @@
-# coffee_quality_analysis
-Coffee quality insights: exploring key factors behind coffee scores.
+# Coffee Quality Analysis
+Predicting and explaining coffee quality scores through feature analysis and SHAP values.
