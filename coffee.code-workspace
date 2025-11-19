@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.compactView": true,
+		"notebook.insertToolbarLocation": "notebookToolbar",
+		"notebook.showCellStatusBar": "hidden",
+		"editor.lineHeight": 15,
+		"notebook.output.lineHeight": 14
+	}
+}
