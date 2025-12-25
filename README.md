@@ -16,7 +16,7 @@ __Analytical methods:__
 * Correlation matrix
 * Exploratory data analysis (EDA)
 * Time series analysis
-* Machine learning (ML): Random Forest model
+* Machine learning (ML): Random Forest Regression model
 * Explainable AI: SHAP model interpretation
 
 __Project tasks:__
